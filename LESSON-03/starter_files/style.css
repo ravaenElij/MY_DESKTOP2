@@ -1,0 +1,18 @@
+body{
+    background-image: url("img/soccer_bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
+    color: #FDFDFF;
+    padding-top: 20px;
+}
+.container {
+    position: absolute;
+    top: 180px;
+    right: 150px;
+}
+h1 {
+    font-family: 'Bevan', cursive;
+    font-weight: normal;
+}
